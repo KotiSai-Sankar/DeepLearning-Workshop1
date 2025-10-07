@@ -1,6 +1,8 @@
 # Binary Classification with Neural Networks on the Census Income Dataset
 This project builds a binary classification model using PyTorch to predict whether an individual earns more than $50,000 annually, based on the Census Income Dataset (income.csv) containing 30,000 entries.
-
+## Done By:
+ Name : Koti Sai Sankar  
+ Rgister Number : 212222240111
 ## Task Description
 Dataset: income.csv (30,000 entries).
 
